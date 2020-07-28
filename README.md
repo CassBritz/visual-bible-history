@@ -22,7 +22,7 @@ Here I have added a really basic task list of what I think I am going to need to
 > I will first do the 'View' Page
 #### Design Stuff
 
-- [ ] create a design of what I want the app to look like. Use XD or something
+- [x] create a design of what I want the app to look like. Use XD or something 
 - [ ] put my design through a ux test by asking a couple of people what they think
 - [ ] do a technical store first design
 
@@ -46,3 +46,7 @@ Here I have added a really basic task list of what I think I am going to need to
 - [ ] Family Tree Component
 - [ ] Card component to show character information
 - [ ] **Research & implement** How do I do the fancy animation Stuff that Angular is so cool about?? How do I draw on canvases. Is this something I can do?
+
+#### Journey Notes
+OMW, have you seen [this website](https://www.figma.com/)? I love it. Wow! Helped me created the design. Has an XD feel to it. And is free for your first few projects. 
+Created the design of what I am thinking of [here](https://www.figma.com/file/IiqK5ku18xePBP1QoIQM2C/Bible-His-Story?node-id=0%3A1) : 
