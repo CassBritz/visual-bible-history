@@ -48,5 +48,9 @@ Here I have added a really basic task list of what I think I am going to need to
 - [ ] **Research & implement** How do I do the fancy animation Stuff that Angular is so cool about?? How do I draw on canvases. Is this something I can do?
 
 #### Journey Notes
-OMW, have you seen [this website](https://www.figma.com/)? I love it. Wow! Helped me created the design. Has an XD feel to it. And is free for your first few projects. 
-Created the design of what I am thinking of [here](https://www.figma.com/file/IiqK5ku18xePBP1QoIQM2C/Bible-His-Story?node-id=0%3A1) : 
+28/07 OMW, have you seen [this website](https://www.figma.com/)? I love it. Wow! Helped me created the design. Has an XD feel to it. And is free for your first few projects. 
+Created the design of what I am thinking of [here](https://www.figma.com/file/IiqK5ku18xePBP1QoIQM2C/Bible-His-Story?node-id=0%3A1)
+
+30/07 So I've done a little research and it did not take me very long to discover Firebase. I think I am going to give this a go. But a new problem arises. Originally I had said I am going to do the 'view page' for this app. But I realise now that I probably need to do the crud so that I can start to add data. Whoops. I will try to finish up the design for the create today. Links I might need:
+[Nice tutorial](https://www.techiediaries.com/angular-firebase/angular-9-8-firestore-database-crud-tutorial/)
+[Official AngularFire package](https://firebaseopensource.com/projects/angular/angularfire2/)
