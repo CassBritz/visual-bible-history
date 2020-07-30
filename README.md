@@ -19,7 +19,7 @@ This is an ongoing project and it's going to be slow! Why?
 Here I have added a really basic task list of what I think I am going to need to do. I put this here so that I have somewhere I can refer to.
 
 ### Family Tree
-> I will first do the 'View' Page
+> I will first do the 'View' Page. *Update 30/07/2020: Wrong. Need to do a create interface first.*
 #### Design Stuff
 
 - [x] create a design of what I want the app to look like. Use XD or something 
