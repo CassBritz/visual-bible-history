@@ -25,3 +25,5 @@ Created the design of what I am thinking of [here](https://www.figma.com/file/Ii
 [Official AngularFire package](https://firebaseopensource.com/projects/angular/angularfire2/)
 
 *5/5/2021* So... I told you this is going to be a slow process. Life. Sigh. On the up side, I have taken the reigns here again and I have a little more experience now around Angular and NgRx. What I still need to learn is Angular Fire. But that's not so bad. As I was designing this last time I realised that I am going to need a framework of some type that can help me with the css layout. I had thought of bootstrap but I don't quite know how to integrate that with Angular. Now that I have a bit more knowledge I see a lot of things I need to change on this plan. I want a nice way to be able to show it. So I've replaced the checkbox task list with the kaban style table above. If you want to see that first checklist I guess you can look in the commit history. 🙂
+
+*5/5/2021* One other thing: I was able to create an empty angular project and firestore and connect the two together AND deploy it. [Here is the link](https://chronicles-c7e22.web.app)
